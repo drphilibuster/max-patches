@@ -9,3 +9,8 @@ Max and Max for Live devices.
 Each device folder has its own README (install, use) and TESTING (what was
 verified, and how). Devices are generated from code rather than hand-patched,
 so their wiring and layout are reviewable in git.
+
+## License
+
+[MIT](LICENSE). Presets that `make_presets.py` builds are made from your own
+Live install's Core Library, which is Ableton's content and not covered here.
